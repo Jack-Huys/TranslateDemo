@@ -7,9 +7,9 @@ import sys
 import time
 
 #个人应用ID
-APP_KEY = '6b83933ae45fa39c'
+APP_KEY = ''
 #个人应用密钥
-APP_SECRET = '1R9wiclorKbQsKJTOCqROl7BGea8Tg5I'
+APP_SECRET = ''
 
 # 定义一个结构体来存储JSON数据
 class DictionaryResult:
