@@ -1,0 +1,58 @@
+Беспилотник.
+компьютер
+Режим возвращения
+Низкий заряд.
+предупред
+Автономный режим
+Скорост ветр
+طائرة بدون طيار.
+الكمبيوتر
+وضع العودة
+طاقة منخفضة
+تحذير
+النموذج الذاتي
+سرعة الرياح
+drone.
+computer
+Return mode
+Low battery
+warn
+Autonomous mode
+Wind speed
+drone.
+Les ordinateurs
+Retour au mode
+Batterie électrique faible
+avertissement
+Le mode autonome
+La vitesse du vent
+드론
+컴퓨터
+귀항 방식
+배터리 부족
+경고
+자율모델
+풍속
+dron.
+El ordenador
+Volver al modo
+Batería baja
+advertencia
+Modo de autonomía
+Velocidad del viento
+dron.
+El ordenador
+Volver al modo
+Batería baja
+advertencia
+Modo de autonomía
+Velocidad del viento
+Enlace no saludable
+Falla de enlace
+Control remoto acceso
+Comunicación remota degradada
+Control remoto desconectado
+Configuración incorrecta del actuador
+Fallo de la memoria de configuración del actuador
+Caja de distribución sobretensión
+Caja de distribución baja tensión
